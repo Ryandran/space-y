@@ -31,9 +31,11 @@ Web scrap Falcon 9 launch records with `BeautifulSoup`:
 - Parse the table and convert it into a Pandas data frame
   
 <h1 align=center><font size = 5>Assignment: SQL Notebook for Peer Assignment</font></h1>
+
 ## Introduction
 Using this Python notebook you will:
 
 1.  Understand the Spacex DataSet
 2.  Load the dataset  into the corresponding table in a Db2 database
 3.  Execute SQL queries to answer assignment questions 
+ 
