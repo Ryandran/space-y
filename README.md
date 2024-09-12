@@ -22,11 +22,9 @@ In this lab we will mainly convert those outcomes into Training Labels with `1` 
 
 ## Webscraping
 ### **Space X  Falcon 9 First Stage Landing Prediction**
-In this lab, you will be performing web scraping to collect Falcon 9 historical launch records from a Wikipedia page titled List of Falcon 9 and Falcon Heavy launches
-
+In this lab, you will be performing web scraping to collect Falcon 9 historical launch records from a Wikipedia page titled List of Falcon 9 and Falcon Heavy launches.
 https://en.wikipedia.org/wiki/List_of_Falcon_9_and_Falcon_Heavy_launches
 
-![image](https://github.com/user-attachments/assets/f669baa5-7a5d-48e7-8b36-f404a03912c9)
 Falcon 9 first stage will land successfully
 ### Objectives
 Web scrap Falcon 9 launch records with `BeautifulSoup`: 
