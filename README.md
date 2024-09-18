@@ -65,9 +65,9 @@ interact with a pie chart and a scatter point chart. You will be guided to build
 ### Finding Insights Visually
 Now with the dashboard completed, you should be able to use it to analyze SpaceX launch data, and answer the following questions:
 
-Which site has the largest successful launches?
-Which site has the highest launch success rate?
-Which payload range(s) has the highest launch success rate?
-Which payload range(s) has the lowest launch success rate?
-Which F9 Booster version (v1.0, v1.1, FT, B4, B5, etc.) has the highest
+1. Which site has the largest successful launches?
+2. Which site has the highest launch success rate?
+3. Which payload range(s) has the highest launch success rate?
+4. Which payload range(s) has the lowest launch success rate?
+5. Which F9 Booster version (v1.0, v1.1, FT, B4, B5, etc.) has the highest
 launch success rate?
