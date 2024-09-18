@@ -54,7 +54,14 @@ Therefore if we can determine if the first stage will land, we can determine the
 This information can be used if an alternate company wants to bid against SpaceX for a rocket launch.
 
 This dataset includes a record for each payload carried during a SpaceX mission into outer space.
-## Build a Dashboard Application with Plotly Dash
+
+<h1 align=center><font size = 5>Assignment: Build a Dashboard Application with Plotly Dash</font></h1>
+In this lab, you will be building a Plotly Dash application for users to perform interactive visual analytics on SpaceX launch data in
+real-time.
+
+This dashboard application contains input components such as a dropdown list and a range slider to
+interact with a pie chart and a scatter point chart. You will be guided to build this dashboard application via the following tasks:
+
 # Finding Insights Visually
 Now with the dashboard completed, you should be able to use it to analyze SpaceX launch data, and answer the following questions:
 
