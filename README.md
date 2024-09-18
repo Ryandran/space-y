@@ -54,3 +54,13 @@ Therefore if we can determine if the first stage will land, we can determine the
 This information can be used if an alternate company wants to bid against SpaceX for a rocket launch.
 
 This dataset includes a record for each payload carried during a SpaceX mission into outer space.
+
+#Finding Insights Visually
+Now with the dashboard completed, you should be able to use it to analyze SpaceX launch data, and answer the following questions:
+
+Which site has the largest successful launches?
+Which site has the highest launch success rate?
+Which payload range(s) has the highest launch success rate?
+Which payload range(s) has the lowest launch success rate?
+Which F9 Booster version (v1.0, v1.1, FT, B4, B5, etc.) has the highest
+launch success rate?
