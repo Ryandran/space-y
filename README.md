@@ -54,8 +54,8 @@ Therefore if we can determine if the first stage will land, we can determine the
 This information can be used if an alternate company wants to bid against SpaceX for a rocket launch.
 
 This dataset includes a record for each payload carried during a SpaceX mission into outer space.
-
-#Finding Insights Visually
+## Build a Dashboard Application with Plotly Dash
+# Finding Insights Visually
 Now with the dashboard completed, you should be able to use it to analyze SpaceX launch data, and answer the following questions:
 
 Which site has the largest successful launches?
